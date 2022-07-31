@@ -1,4 +1,4 @@
-body{
+#root{
     background:
 linear-gradient(135deg, #ffffff 21px, #e6f2ff 22px, #e6f2ff 24px, transparent 24px, transparent 67px, #e6f2ff 67px, #e6f2ff 69px, transparent 69px),
 linear-gradient(225deg, #ffffff 21px, #e6f2ff 22px, #e6f2ff 24px, transparent 24px, transparent 67px, #e6f2ff 67px, #e6f2ff 69px, transparent 69px)0 64px;
