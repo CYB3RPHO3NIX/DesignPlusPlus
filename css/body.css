@@ -5,3 +5,40 @@ linear-gradient(225deg, #ffffff 21px, #e6f2ff 22px, #e6f2ff 24px, transparent 24
 background-color:#ffffff;
 background-size: 64px 128px;
 }
+
+#LeftSideMenuButton{
+    color: #2185D0;
+    background-color: white ;
+    border: 1px solid #2185D0 !important; 
+    margin: calc(-0.5%);
+    height: inherit; 
+    position: fixed; 
+    left: 0px;
+}
+#LeftSideMenuButton:hover{
+    color: black;
+    background-color:  #e9f3fc;
+    border: 1px solid #2185D0 !important; 
+    margin: calc(-0.5%);
+    height: inherit; 
+    position: fixed; 
+    left: 0px;
+}
+#RightSideMenuButton{
+    color: #2185D0;
+    background-color: white ;
+    border: 1px solid #2185D0 !important; 
+    margin: calc(-0.5%);
+    height: inherit; 
+    position: fixed; 
+    right: 0px;
+}
+#RightSideMenuButton:hover{
+    color: black;
+    background-color:  #e9f3fc;
+    border: 1px solid #2185D0 !important; 
+    margin: calc(-0.5%);
+    height: inherit; 
+    position: fixed; 
+    right: 0px;
+}
